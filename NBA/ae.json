@@ -1,0 +1,47 @@
+{
+    "ESPN_META": { 
+        "version": 1.1, 
+        "production": "NULL" 
+    }, 
+    
+    "Template": {
+        "dashboard" : ["0. Dashboard", "CompItem", {}],
+        "precomps_bin"  : ["1. TOOLKIT PRECOMPS", "FolderItem", {
+            "awaysheet" : ["Away Logosheet Master Switch", "CompItem", {}],
+            "teamsheet" : ["Team Logosheet Master Switch", "CompItem", {}]
+        }],
+        "working_bin" : ["2. WORKING FOLDER", "FolderItem", {}],
+        "render_bin"  : ["3. RENDER COMPS", "FolderItem", {}],
+        "tech_bin"    : ["X. DO NOT EDIT", "FolderItem", {
+            "assets_bin": ["Asset Bin", "FolderItem", {
+                "guides_bin" : ["Guidelayers", "FolderItem", {
+                    "bottomline": ["Guidelayers", "CompItem", {}]
+                }],
+                "teams0_bin" : ["Team Logo Sheets", "FolderItem", {}],
+                "teams1_bin" : ["Away Logo Sheets", "FolderItem", {}],
+                "spons0_bin" : ["Sponsor Logo Sheets", "FolderItem", {}],
+                "shows0_bin" : ["Show Logo Sheets", "FolderItem", {}],
+                "asset1_bin" : ["Custom Asset 01", "FolderItem", {}],
+                "asset2_bin" : ["Custom Asset 02", "FolderItem", {}],
+                "asset3_bin" : ["Custom Asset 03", "FolderItem", {}],
+                "asset4_bin" : ["Custom Asset 04", "FolderItem", {}],
+                "asset5_bin" : ["Custom Asset 05", "FolderItem", {}]
+            }],
+            "wiprenderbin": ["WIP Render Comps", "FolderItem", {}]
+        }]
+    },
+    
+    "Expressions": {
+        "(Color) Team Primary": "comp('COLOR SWATCH').layer(1).sampleImage([1,1]);",
+        "(Color) Team Secondary": "comp('COLOR SWATCH').layer(1).sampleImage([160,1]);",
+        "(Color) Team Tertiary": "comp('COLOR SWATCH').layer(1).sampleImage([234,1]);",
+        "(SourceText) Team Name": "comp('0. Dashboard').layer('TEAM NAME').text.sourceText;",
+        "(SourceText) Team Nickname": "comp('0. Dashboard').layer('NICKNAME').text.sourceText;",
+        "(SourceText) Team Tricode": "comp('0. Dashboard').layer('TRICODE').text.sourceText;",
+        "(SourceText) Team City": "comp('0. Dashboard').layer('LOCATION').text.sourceText;",
+        "(SourceText) Custom Text A": "comp('0. Dashboard').layer('CUSTOM TEXT A').text.sourceText;",
+        "(SourceText) Custom Text B": "comp('0. Dashboard').layer('CUSTOM TEXT B').text.sourceText;",
+        "(SourceText) Custom Text C": "comp('0. Dashboard').layer('CUSTOM TEXT C').text.sourceText;",
+        "(SourceText) Custom Text D": "comp('0. Dashboard').layer('CUSTOM TEXT D').text.sourceText;"
+    }
+}

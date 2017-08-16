@@ -1,0 +1,37 @@
+{
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "NULL"
+    },
+    "NULL":{
+        "CONFERENCE": "NULL",
+        "DISPLAY NAME": "NULL&",
+        "IMS": "NULL", 
+        "LOCATION": "NULL", 
+        "NICKNAME": "NULL", 
+        "PRIMARY": "ff00ff", 
+        "SECONDARY": "ff00ff", 
+        "TIER": "0", 
+        "TRI": "NUL"
+    },
+    "Red Team":{
+        "CONFERENCE": "American",
+        "DISPLAY NAME": "Red Team",
+        "IMS": "RED",
+        "LOCATION": "Los Angeles CA",
+        "PRIMARY": "ff0000",
+        "SECONDARY": "ffffff",
+        "TIER": "1",
+        "TRI": "RED"
+    },
+    "Blue Team":{
+        "CONFERENCE": "National",
+        "DISPLAY NAME": "Blue Team",
+        "IMS": "BLUE",
+        "LOCATION": "New York NY",
+        "PRIMARY": "0000ff",
+        "SECONDARY": "080808",
+        "TIER": "1",
+        "TRI": "BLUE"
+    }
+}
