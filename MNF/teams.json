@@ -1,6 +1,23 @@
 {
-	"ARI": {
-		"TRICODE": "ARI",
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "CBB"
+    },
+    "NULL":{
+        "ARENA": "NULL", 
+        "COACH": "NULL", 
+        "CONFERENCE": "NULL",
+        "DISPLAY NAME": "NULL&",
+        "IMS": "NULL", 
+        "LOCATION": "NULL", 
+        "NICKNAME": "NULL", 
+        "PRIMARY": "ff00ff", 
+        "SECONDARY": "ff00ff", 
+        "TIER": "0", 
+        "TRI": "NUL"
+    },
+    "ARI": {
+		"TRI": "ARI",
 		"LOCATION": "Arizona",
 		"NICKNAME": "Cardinals",
 		"DISPLAY NAME": "Arizona Cardinals",
@@ -12,7 +29,7 @@
 		"IMS": "NULL"
 	},
 	"ATL": {
-		"TRICODE": "ATL",
+		"TRI": "ATL",
 		"LOCATION": "Atlanta",
 		"NICKNAME": "Falcons",
 		"DISPLAY NAME": "Atlanta Falcons",
@@ -24,7 +41,7 @@
 		"IMS": "NULL"
 	},
 	"BAL": {
-		"TRICODE": "BAL",
+		"TRI": "BAL",
 		"LOCATION": "Baltimore",
 		"NICKNAME": "Ravens",
 		"DISPLAY NAME": "Baltimore Ravens",
@@ -36,7 +53,7 @@
 		"IMS": "NULL"
 	},
 	"BUF": {
-		"TRICODE": "BUF",
+		"TRI": "BUF",
 		"LOCATION": "Buffalo",
 		"NICKNAME": "Bills",
 		"DISPLAY NAME": "Buffalo Bills",
@@ -48,7 +65,7 @@
 		"IMS": "NULL"
 	},
 	"CAR": {
-		"TRICODE": "CAR",
+		"TRI": "CAR",
 		"LOCATION": "Carolina",
 		"NICKNAME": "Panthers",
 		"DISPLAY NAME": "Carolina Panthers",
@@ -60,7 +77,7 @@
 		"IMS": "NULL"
 	},
 	"CHI": {
-		"TRICODE": "CHI",
+		"TRI": "CHI",
 		"LOCATION": "Chicago",
 		"NICKNAME": "Bears",
 		"DISPLAY NAME": "Chicago Bears",
@@ -72,7 +89,7 @@
 		"IMS": "NULL"
 	},
 	"CIN": {
-		"TRICODE": "CIN",
+		"TRI": "CIN",
 		"LOCATION": "Cincinnati",
 		"NICKNAME": "Bengals",
 		"DISPLAY NAME": "Cincinnati Bengals",
@@ -84,7 +101,7 @@
 		"IMS": "NULL"
 	},
 	"CLE": {
-		"TRICODE": "CLE",
+		"TRI": "CLE",
 		"LOCATION": "Cleveland",
 		"NICKNAME": "Browns",
 		"DISPLAY NAME": "Cleveland Browns",
@@ -96,7 +113,7 @@
 		"IMS": "NULL"
 	},
 	"DAL": {
-		"TRICODE": "DAL",
+		"TRI": "DAL",
 		"LOCATION": "Dallas",
 		"NICKNAME": "Cowboys",
 		"DISPLAY NAME": "Dallas Cowboys",
@@ -108,7 +125,7 @@
 		"IMS": "NULL"
 	},
 	"DEN": {
-		"TRICODE": "DEN",
+		"TRI": "DEN",
 		"LOCATION": "Denver",
 		"NICKNAME": "Broncos",
 		"DISPLAY NAME": "Denver Broncos",
@@ -120,7 +137,7 @@
 		"IMS": "NULL"
 	},
 	"DET": {
-		"TRICODE": "DET",
+		"TRI": "DET",
 		"LOCATION": "Detroit",
 		"NICKNAME": "Lions",
 		"DISPLAY NAME": "Detroit Lions",
@@ -132,7 +149,7 @@
 		"IMS": "NULL"
 	},
 	"GB": {
-		"TRICODE": "GB",
+		"TRI": "GB",
 		"LOCATION": "Green Bay",
 		"NICKNAME": "Packers",
 		"DISPLAY NAME": "Green Bay Packers",
@@ -144,7 +161,7 @@
 		"IMS": "NULL"
 	},
 	"HOU": {
-		"TRICODE": "HOU",
+		"TRI": "HOU",
 		"LOCATION": "Houston",
 		"NICKNAME": "Texans",
 		"DISPLAY NAME": "Houston Texans",
@@ -156,7 +173,7 @@
 		"IMS": "NULL"
 	},
 	"IND": {
-		"TRICODE": "IND",
+		"TRI": "IND",
 		"LOCATION": "Indianapolis",
 		"NICKNAME": "Colts",
 		"DISPLAY NAME": "Indianapolis Colts",
@@ -168,7 +185,7 @@
 		"IMS": "NULL"
 	},
 	"JAX": {
-		"TRICODE": "JAX",
+		"TRI": "JAX",
 		"LOCATION": "Jacksonville",
 		"NICKNAME": "Jaguars",
 		"DISPLAY NAME": "Jacksonville Jaguars",
@@ -180,7 +197,7 @@
 		"IMS": "NULL"
 	},
 	"KC": {
-		"TRICODE": "KC",
+		"TRI": "KC",
 		"LOCATION": "Kansas City",
 		"NICKNAME": "Chiefs",
 		"DISPLAY NAME": "Kansas City Chiefs",
@@ -192,7 +209,7 @@
 		"IMS": "NULL"
 	},
 	"LAC": {
-		"TRICODE": "LAC",
+		"TRI": "LAC",
 		"LOCATION": "Los Angeles",
 		"NICKNAME": "Chargers",
 		"DISPLAY NAME": "Los Angeles Chargers",
@@ -204,7 +221,7 @@
 		"IMS": "NULL"
 	},
 	"LAR": {
-		"TRICODE": "LAR",
+		"TRI": "LAR",
 		"LOCATION": "Los Angeles",
 		"NICKNAME": "Rams",
 		"DISPLAY NAME": "Los Angeles Rams",
@@ -216,7 +233,7 @@
 		"IMS": "NULL"
 	},
 	"MIA": {
-		"TRICODE": "MIA",
+		"TRI": "MIA",
 		"LOCATION": "Miami",
 		"NICKNAME": "Dolphins",
 		"DISPLAY NAME": "Miami Dolphins",
@@ -228,7 +245,7 @@
 		"IMS": "NULL"
 	},
 	"MIN": {
-		"TRICODE": "MIN",
+		"TRI": "MIN",
 		"LOCATION": "Minnesota",
 		"NICKNAME": "Vikings",
 		"DISPLAY NAME": "Minnesota Vikings",
@@ -240,7 +257,7 @@
 		"IMS": "NULL"
 	},
 	"NE": {
-		"TRICODE": "NE",
+		"TRI": "NE",
 		"LOCATION": "New England",
 		"NICKNAME": "Patriots",
 		"DISPLAY NAME": "New England Patriots",
@@ -252,7 +269,7 @@
 		"IMS": "NULL"
 	},
 	"NO": {
-		"TRICODE": "NO",
+		"TRI": "NO",
 		"LOCATION": "New Orleans",
 		"NICKNAME": "Saints",
 		"DISPLAY NAME": "New Orleans Saints",
@@ -264,7 +281,7 @@
 		"IMS": "NULL"
 	},
 	"NYG": {
-		"TRICODE": "NYG",
+		"TRI": "NYG",
 		"LOCATION": "New York",
 		"NICKNAME": "Giants",
 		"DISPLAY NAME": "New York Giants",
@@ -276,7 +293,7 @@
 		"IMS": "NULL"
 	},
 	"NYJ": {
-		"TRICODE": "NYJ",
+		"TRI": "NYJ",
 		"LOCATION": "New York",
 		"NICKNAME": "Jets",
 		"DISPLAY NAME": "New York Jets",
@@ -288,7 +305,7 @@
 		"IMS": "NULL"
 	},
 	"OAK": {
-		"TRICODE": "OAK",
+		"TRI": "OAK",
 		"LOCATION": "Oakland",
 		"NICKNAME": "Raiders",
 		"DISPLAY NAME": "Oakland Raiders",
@@ -300,7 +317,7 @@
 		"IMS": "NULL"
 	},
 	"PHI": {
-		"TRICODE": "PHI",
+		"TRI": "PHI",
 		"LOCATION": "Philadelphia",
 		"NICKNAME": "Eagles",
 		"DISPLAY NAME": "Philadelphia Eagles",
@@ -312,7 +329,7 @@
 		"IMS": "NULL"
 	},
 	"PIT": {
-		"TRICODE": "PIT",
+		"TRI": "PIT",
 		"LOCATION": "Pittsburgh",
 		"NICKNAME": "Steelers",
 		"DISPLAY NAME": "Pittsburgh Steelers",
@@ -324,7 +341,7 @@
 		"IMS": "NULL"
 	},
 	"SEA": {
-		"TRICODE": "SEA",
+		"TRI": "SEA",
 		"LOCATION": "Seattle",
 		"NICKNAME": "Seahawks",
 		"DISPLAY NAME": "Seattle Seahawks",
@@ -336,7 +353,7 @@
 		"IMS": "NULL"
 	},
 	"SF": {
-		"TRICODE": "SF",
+		"TRI": "SF",
 		"LOCATION": "San Francisco",
 		"NICKNAME": "49ers",
 		"DISPLAY NAME": "San Francisco 49ers",
@@ -348,7 +365,7 @@
 		"IMS": "NULL"
 	},
 	"TB": {
-		"TRICODE": "TB",
+		"TRI": "TB",
 		"LOCATION": "Tampa Bay",
 		"NICKNAME": "Buccanneers",
 		"DISPLAY NAME": "Tampa Bay Buccanneers",
@@ -360,7 +377,7 @@
 		"IMS": "NULL"
 	},
 	"TEN": {
-		"TRICODE": "TEN",
+		"TRI": "TEN",
 		"LOCATION": "Tennessee",
 		"NICKNAME": "Titans",
 		"DISPLAY NAME": "Tennessee Titans",
@@ -372,7 +389,7 @@
 		"IMS": "NULL"
 	},
 	"WSH": {
-		"TRICODE": "WSH",
+		"TRI": "WSH",
 		"LOCATION": "Washington",
 		"NICKNAME": "Redskins",
 		"DISPLAY NAME": "Washington Redskins",

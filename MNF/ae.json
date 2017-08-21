@@ -25,23 +25,75 @@
                 "asset2_bin" : ["Custom Asset 02", "FolderItem", {}],
                 "asset3_bin" : ["Custom Asset 03", "FolderItem", {}],
                 "asset4_bin" : ["Custom Asset 04", "FolderItem", {}],
-                "asset5_bin" : ["Custom Asset 05", "FolderItem", {}]
+                "asset5_bin" : ["Custom Asset 05", "FolderItem", {}],
+                "script_bin" : ["Script Holders", "FolderItem", {
+                    "awayScript" : ["Away Script", "CompItem", {}],
+                    "teamScript" : ["Team Script", "CompItem", {}],
+                    "showScript" : ["Show Script", "CompItem", {}],
+                    "custScript" : ["Custom Text Script", "CompItem", {}]
+                }],
             }],
             "wiprenderbin": ["WIP Render Comps", "FolderItem", {}]
         }]
     },
     
     "Expressions": {
-        "(Color) Team Primary": "comp('COLOR SWATCH').layer(1).sampleImage([1,1]);",
-        "(Color) Team Secondary": "comp('COLOR SWATCH').layer(1).sampleImage([160,1]);",
-        "(Color) Team Tertiary": "comp('COLOR SWATCH').layer(1).sampleImage([234,1]);",
-        "(SourceText) Team Name": "comp('0. Dashboard').layer('TEAM NAME').text.sourceText;",
-        "(SourceText) Team Nickname": "comp('0. Dashboard').layer('NICKNAME').text.sourceText;",
-        "(SourceText) Team Tricode": "comp('0. Dashboard').layer('TRICODE').text.sourceText;",
-        "(SourceText) Team City": "comp('0. Dashboard').layer('LOCATION').text.sourceText;",
+        "(Color) Home Team Primary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([25,130]);",
+        "(Color) Home Team Secondary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([100,131]);",
+        "(Color) Home Team Tertiary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([166,129]);",
+        "(Color) Away Team Primary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([15,127]);",
+        "(Color) Away Team Secondary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([100,131]);",
+        "(Color) Away Team Tertiary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([166,129]);",
+        "(SourceText) Home Team Name": "comp('0. Dashboard').layer('TEAM NAME').text.sourceText;",
+        "(SourceText) Home Team Nickname": "comp('0. Dashboard').layer('NICKNAME').text.sourceText;",
+        "(SourceText) Home Team Tricode": "comp('0. Dashboard').layer('TRICODE').text.sourceText;",
+        "(SourceText) Home Team City": "comp('0. Dashboard').layer('LOCATION').text.sourceText;",
+        "(SourceText) Away Team Name": "comp('0. Dashboard').layer('AWAY TEAM NAME').text.sourceText;",
+        "(SourceText) Away Team Nickname": "comp('0. Dashboard').layer('AWAY NICKNAME').text.sourceText;",
+        "(SourceText) Away Team Tricode": "comp('0. Dashboard').layer('AWAY TRICODE').text.sourceText;",
+        "(SourceText) Away Team City": "comp('0. Dashboard').layer('AWAY LOCATION').text.sourceText;",
         "(SourceText) Custom Text A": "comp('0. Dashboard').layer('CUSTOM TEXT A').text.sourceText;",
         "(SourceText) Custom Text B": "comp('0. Dashboard').layer('CUSTOM TEXT B').text.sourceText;",
         "(SourceText) Custom Text C": "comp('0. Dashboard').layer('CUSTOM TEXT C').text.sourceText;",
         "(SourceText) Custom Text D": "comp('0. Dashboard').layer('CUSTOM TEXT D').text.sourceText;"
+    },
+    
+    "Team Logosheet": {
+        "GLASS LOGO":{
+            "Size":[2048,2048],
+            "Pos":[1012.74893617021,1093.36170212767,0],
+            "Anx":[347.25,290.644124464197,0],
+            "Scl":[1332,1332,100]
+        },
+        "KNOCKOUT LOGO":{
+            "Size":[2048,2048],
+            "Pos":[1012.74893617021,1093.36170212767,0],
+            "Anx":[161.75,476.644124464197,0],
+            "Scl":[1332,1332,100]
+        },
+        "ONYX LOGO":{
+            "Size":[2048,2048],
+            "Pos":[1012.74893617021,1093.36170212767,0],
+            "Anx":[347.25,476.644124464197,0],
+            "Scl":[1332,1332,100]
+        },
+        "OUTLINE LOGO":{
+            "Size":[2048,2048],
+            "Pos":[1012.74893617021,1093.36170212767,0],
+            "Anx":[1149.5,476,0],
+            "Scl":[1332,1332,100]
+        },
+        "PRIMARY LOGO":{
+            "Size":[2048,2048],
+            "Pos":[1012.74893617021,1093.36170212767,0],
+            "Anx":[161.880620788219,290.644124464197,0],
+            "Scl":[1332,1332,100]
+        },
+        "SWATCH COLORS":{
+            "Size":[256,256],
+            "Pos":[120.74893617021,153.361702127671,0],
+            "Anx":[672.880620788219,411.644124464197,0],
+            "Scl":[78,77.9999999999999,100]
+        }
     }
 }

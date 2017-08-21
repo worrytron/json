@@ -25,7 +25,13 @@
                 "asset2_bin" : ["Custom Asset 02", "FolderItem", {}],
                 "asset3_bin" : ["Custom Asset 03", "FolderItem", {}],
                 "asset4_bin" : ["Custom Asset 04", "FolderItem", {}],
-                "asset5_bin" : ["Custom Asset 05", "FolderItem", {}]
+                "asset5_bin" : ["Custom Asset 05", "FolderItem", {}],
+                "script_bin" : ["Script Holders", "FolderItem", {
+                    "awayScript" : ["Away Script", "CompItem", {}],
+                    "teamScript" : ["Team Script", "CompItem", {}],
+                    "showScript" : ["Show Script", "CompItem", {}],
+                    "custScript" : ["Custom Text Script", "CompItem", {}]
+                }],
             }],
             "wiprenderbin": ["WIP Render Comps", "FolderItem", {}]
         }]
