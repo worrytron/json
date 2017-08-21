@@ -59,6 +59,7 @@
         "json": {
             "teams": "Y:/Workspace/SCRIPTS/ESPNTools/.json/CBB/teams.json",
             "ae": "Y:/Workspace/SCRIPTS/ESPNTools/.json/CBB/ae.json",
+            "c4d": "Y:/Workspace/SCRIPTS/ESPNTools/.json/CBB/c4d.json"
         },
         "folder_lookup": {
             "animroot":       "Y:/Workspace/MASTER_PROJECTS/CBB/ANIMATION",
@@ -81,7 +82,7 @@
             "customasset02":  "Y:/Workspace/MASTER_PROJECTS/CBB/ASSETS/FRENZY CLIPS 02",
             "customasset03":  "Y:/Workspace/MASTER_PROJECTS/CBB/ASSETS/CUSTOM03",
             "customasset04":  "Y:/Workspace/MASTER_PROJECTS/CBB/ASSETS/CUSTOM04",
-            "customasset05":  "Y:/Workspace/MASTER_PROJECTS/CBB/ASSETS/CUSTOM05",
+            "customasset05":  "Y:/Workspace/MASTER_PROJECTS/CBB/ASSETS/CUSTOM05"
         }
     },
     "NBA": {
@@ -110,7 +111,7 @@
             "customasset02":  "Y:/Workspace/MASTER_PROJECTS/NBA_2016/ASSETS/CUSTOM02",
             "customasset03":  "Y:/Workspace/MASTER_PROJECTS/NBA_2016/ASSETS/CUSTOM03",
             "customasset04":  "Y:/Workspace/MASTER_PROJECTS/NBA_2016/ASSETS/CUSTOM04",
-            "customasset05":  "Y:/Workspace/MASTER_PROJECTS/NBA_2016/ASSETS/CUSTOM05",
+            "customasset05":  "Y:/Workspace/MASTER_PROJECTS/NBA_2016/ASSETS/CUSTOM05"
         },
         "pub": "Y:/PublishData/NBA"
     },
