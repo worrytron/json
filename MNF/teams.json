@@ -23,9 +23,9 @@
 		"DISPLAY NAME": "Arizona Cardinals",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "97233f",
+		"SECONDARY": "ffb612",
+		"TERTIARY": "ffffff",
 		"IMS": "NULL"
 	},
 	"ATL": {
@@ -35,9 +35,9 @@
 		"DISPLAY NAME": "Atlanta Falcons",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "a71930",
+		"SECONDARY": "a5acaf",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"BAL": {
@@ -47,9 +47,9 @@
 		"DISPLAY NAME": "Baltimore Ravens",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "241773",
+		"SECONDARY": "9e7c0c",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"BUF": {
@@ -59,9 +59,9 @@
 		"DISPLAY NAME": "Buffalo Bills",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "00338d",
+		"SECONDARY": "c60c30",
+		"TERTIARY": "ffffff",
 		"IMS": "NULL"
 	},
 	"CAR": {
@@ -71,9 +71,9 @@
 		"DISPLAY NAME": "Carolina Panthers",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "0085ca",
+		"SECONDARY": "bfc0bf",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"CHI": {
@@ -83,9 +83,9 @@
 		"DISPLAY NAME": "Chicago Bears",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "00143f",
+		"SECONDARY": "f26522",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"CIN": {
@@ -95,9 +95,9 @@
 		"DISPLAY NAME": "Cincinnati Bengals",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "fb4f14",
+		"SECONDARY": "000000",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"CLE": {
@@ -107,9 +107,9 @@
 		"DISPLAY NAME": "Cleveland Browns",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "22150c",
+		"SECONDARY": "fb4f14",
+		"TERTIARY": "ffffff",
 		"IMS": "NULL"
 	},
 	"DAL": {
@@ -119,9 +119,9 @@
 		"DISPLAY NAME": "Dallas Cowboys",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "0c264c",
+		"SECONDARY": "b0b7bc",
+		"TERTIARY": "ffffff",
 		"IMS": "NULL"
 	},
 	"DEN": {
@@ -131,9 +131,9 @@
 		"DISPLAY NAME": "Denver Broncos",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "002244",
+		"SECONDARY": "fb4f14",
+		"TERTIARY": "ffffff",
 		"IMS": "NULL"
 	},
 	"DET": {
@@ -143,9 +143,9 @@
 		"DISPLAY NAME": "Detroit Lions",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "046eb4",
+		"SECONDARY": "b0b7bc",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"GB": {
@@ -155,9 +155,9 @@
 		"DISPLAY NAME": "Green Bay Packers",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "24423c",
+		"SECONDARY": "fcbe14",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"HOU": {
@@ -167,9 +167,9 @@
 		"DISPLAY NAME": "Houston Texans",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "00143f",
+		"SECONDARY": "c9243f",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"IND": {
@@ -179,9 +179,9 @@
 		"DISPLAY NAME": "Indianapolis Colts",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "003d79",
+		"SECONDARY": "ffffff",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"JAX": {
@@ -191,9 +191,9 @@
 		"DISPLAY NAME": "Jacksonville Jaguars",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "d8a328",
+		"SECONDARY": "136677",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"KC": {
@@ -203,9 +203,9 @@
 		"DISPLAY NAME": "Kansas City Chiefs",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "ca2430",
+		"SECONDARY": "ffb612",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"LAC": {
@@ -215,9 +215,9 @@
 		"DISPLAY NAME": "Los Angeles Chargers",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "0a2342",
+		"SECONDARY": "fdb515",
+		"TERTIARY": "2072ba",
 		"IMS": "NULL"
 	},
 	"LAR": {
@@ -227,9 +227,9 @@
 		"DISPLAY NAME": "Los Angeles Rams",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "002147",
+		"SECONDARY": "ffffff",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"MIA": {
@@ -239,9 +239,9 @@
 		"DISPLAY NAME": "Miami Dolphins",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "0091a0",
+		"SECONDARY": "ff8500",
+		"TERTIARY": "ffffff",
 		"IMS": "NULL"
 	},
 	"MIN": {
@@ -251,9 +251,9 @@
 		"DISPLAY NAME": "Minnesota Vikings",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "4f2e84",
+		"SECONDARY": "fec62f",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"NE": {
@@ -263,9 +263,9 @@
 		"DISPLAY NAME": "New England Patriots",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "0a2342",
+		"SECONDARY": "c81f32",
+		"TERTIARY": "b0b7bd",
 		"IMS": "NULL"
 	},
 	"NO": {
@@ -275,9 +275,9 @@
 		"DISPLAY NAME": "New Orleans Saints",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "a08a58",
+		"SECONDARY": "000000",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"NYG": {
@@ -287,9 +287,9 @@
 		"DISPLAY NAME": "New York Giants",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "192e6c",
+		"SECONDARY": "b20032",
+		"TERTIARY": "ffffff",
 		"IMS": "NULL"
 	},
 	"NYJ": {
@@ -299,9 +299,9 @@
 		"DISPLAY NAME": "New York Jets",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "203731",
+		"SECONDARY": "ffffff",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"OAK": {
@@ -311,9 +311,9 @@
 		"DISPLAY NAME": "Oakland Raiders",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "c4c9cc",
+		"SECONDARY": "000000",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"PHI": {
@@ -323,9 +323,9 @@
 		"DISPLAY NAME": "Philadelphia Eagles",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "014a53",
+		"SECONDARY": "bbc4c9",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"PIT": {
@@ -335,9 +335,9 @@
 		"DISPLAY NAME": "Pittsburgh Steelers",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "ffc20e",
+		"SECONDARY": "000000",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"SEA": {
@@ -347,9 +347,9 @@
 		"DISPLAY NAME": "Seattle Seahawks",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "002a5c",
+		"SECONDARY": "7ac142",
+		"TERTIARY": "b2b7bb",
 		"IMS": "NULL"
 	},
 	"SF": {
@@ -359,9 +359,9 @@
 		"DISPLAY NAME": "San Francisco 49ers",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "c9243f",
+		"SECONDARY": "c8aa76",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"TB": {
@@ -371,9 +371,9 @@
 		"DISPLAY NAME": "Tampa Bay Buccanneers",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "d40909",
+		"SECONDARY": "b0b9bf",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	},
 	"TEN": {
@@ -383,9 +383,9 @@
 		"DISPLAY NAME": "Tennessee Titans",
 		"CONFERENCE": "AFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "4095d1",
+		"SECONDARY": "00295b",
+		"TERTIARY": "da2128",
 		"IMS": "NULL"
 	},
 	"WSH": {
@@ -395,9 +395,9 @@
 		"DISPLAY NAME": "Washington Redskins",
 		"CONFERENCE": "NFC",
 		"TIER": "1",
-		"PRIMARY": "ff00ff",
-		"SECONDARY": "ffff00",
-		"TERTIARY": "00ffff",
+		"PRIMARY": "7c1415",
+		"SECONDARY": "ffc20f",
+		"TERTIARY": "000000",
 		"IMS": "NULL"
 	}
 }
