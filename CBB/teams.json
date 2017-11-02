@@ -3497,18 +3497,6 @@
     "TIER": "1", 
     "TRI": "AMCC"
   }, 
-  "Texas Arlington": {
-    "COACH": "Scott Cross", 
-    "CONFERENCE": "Sun Belt", 
-    "DISPLAY NAME": "Texas Arlington", 
-    "IMS": "UTAHVALLEY", 
-    "LOCATION": "Arlington TX", 
-    "NICKNAME": "Mavericks", 
-    "PRIMARY": "1a65b1", 
-    "SECONDARY": "f58024", 
-    "TIER": "1", 
-    "TRI": "UVU"
-  }, 
   "Texas Southern": {
     "COACH": "Mike Davis", 
     "CONFERENCE": "Southwestern Athletic", 
@@ -3870,15 +3858,15 @@
     "TRI": "UTSA"
   }, 
   "UT-Arlington": {
-    "COACH": "Larry Krystkowiak", 
-    "CONFERENCE": "Pac-12", 
+    "COACH": "Scott Cross", 
+    "CONFERENCE": "Sun Belt", 
     "DISPLAY NAME": "UT Arlington", 
     "IMS": "UTARLINGTON", 
-    "LOCATION": "Salt Lake City UT", 
-    "NICKNAME": "Utes", 
-    "PRIMARY": "v", 
-    "SECONDARY": "80808", 
-    "TIER": "2", 
+    "LOCATION": "Arlington TX", 
+    "NICKNAME": "Mavericks", 
+    "PRIMARY": "1a65b1", 
+    "SECONDARY": "f58024", 
+    "TIER": "1", 
     "TRI": "UTA"
   }, 
   "UTEP": {
@@ -3894,28 +3882,40 @@
     "TRI": "UTEP"
   }, 
   "Utah": {
-    "COACH": "Tim Duryea", 
-    "CONFERENCE": "Mountain West", 
+    "COACH": "Larry Krystkowiak", 
+    "CONFERENCE": "Pacific-12", 
     "DISPLAY NAME": "Utah", 
     "IMS": "UTAH", 
+    "LOCATION": "Salt Lake City UT", 
+    "NICKNAME": "Utes", 
+    "PRIMARY": "cc0000  ", 
+    "SECONDARY": "1e1e1e", 
+    "TIER": "1", 
+    "TRI": "UTAH"
+  }, 
+  "Utah State": {
+    "COACH": "Tim Duryea", 
+    "CONFERENCE": "Mountain West", 
+    "DISPLAY NAME": "Utah State", 
+    "IMS": "UTAHSTATE", 
     "LOCATION": "Logan UT", 
     "NICKNAME": "Aggies", 
     "PRIMARY": "002b54", 
     "SECONDARY": "bbb2a4", 
     "TIER": "1", 
-    "TRI": "UTAH"
+    "TRI": "USU"
   }, 
   "Utah Valley": {
     "COACH": "Mark Pope", 
     "CONFERENCE": "Western Athletic", 
     "DISPLAY NAME": "Utah Valley", 
-    "IMS": "UTAHSTATE", 
+    "IMS": "UTAHVALLEY", 
     "LOCATION": "Orem UT", 
     "NICKNAME": "Wolverines", 
     "PRIMARY": "1c5734", 
     "SECONDARY": "f0f0f0", 
     "TIER": "1", 
-    "TRI": "USU"
+    "TRI": "UVU"
   }, 
   "VCU": {
     "COACH": "Mike Rhoades", 
@@ -4216,6 +4216,18 @@
     "SECONDARY": "fec524", 
     "TIER": "1", 
     "TRI": "WYO"
+  }, 
+  "Wyoming-Womens": {
+    "COACH": "Joe Legerski", 
+    "CONFERENCE": "Mountain West", 
+    "DISPLAY NAME": "Wyoming", 
+    "IMS": "WYOMING", 
+    "LOCATION": "Laramie WY", 
+    "NICKNAME": "Cowgirls", 
+    "PRIMARY": "523528", 
+    "SECONDARY": "fec524", 
+    "TIER": "1", 
+    "TRI": "WYOW"
   }, 
   "Xavier": {
     "COACH": "Chris Mack", 
