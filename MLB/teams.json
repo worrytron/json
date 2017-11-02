@@ -4,9 +4,10 @@
         "production": "NULL"
     },
 	"NULL": {
-		"TRICODE": "NUL",
+		"TRI": "NUL",
 		"NAME": "NULLTEAM",
 		"NICKNAME": "NULLS",
+		"LOCATION": "NULL",
 		"DISPLAY NAME": "$NULLTEAM",
 		"NICKNAME2": "N-LLS",
 		"LEAGUE": "NULL",
@@ -19,9 +20,10 @@
 		"IMS": "NULL"
 	},
 	"ARI": {
-		"TRICODE": "ARI",
+		"TRI": "ARI",
 		"NAME": "Arizona",
 		"NICKNAME": "Diamondbacks",
+		"LOCATION": "Phoenix AZ",
 		"DISPLAY NAME": "Arizona",
 		"NICKNAME2": "D-backs",
 		"LEAGUE": "National",
@@ -34,9 +36,10 @@
 		"IMS": "NULL"
 	},
 	"ATL": {
-		"TRICODE": "ATL",
+		"TRI": "ATL",
 		"NAME": "Atlanta",
 		"NICKNAME": "Braves",
+		"LOCATION": "Atlanta GA",
 		"DISPLAY NAME": "Atlanta",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -49,9 +52,10 @@
 		"IMS": "NULL"
 	},
 	"BAL": {
-		"TRICODE": "BAL",
+		"TRI": "BAL",
 		"NAME": "Baltimore",
 		"NICKNAME": "Orioles",
+		"LOCATION": "Baltimore MD",
 		"DISPLAY NAME": "Baltimore",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -64,9 +68,10 @@
 		"IMS": "NULL"
 	},
 	"BOS": {
-		"TRICODE": "BOS",
+		"TRI": "BOS",
 		"NAME": "Boston",
 		"NICKNAME": "Red Sox",
+		"LOCATION": "Boston MA",
 		"DISPLAY NAME": "Boston",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -79,9 +84,10 @@
 		"IMS": "NULL"
 	},
 	"CHW": {
-		"TRICODE": "CHW",
+		"TRI": "CHW",
 		"NAME": "Chicago",
 		"NICKNAME": "White Sox",
+		"LOCATION": "Chicago IL",
 		"DISPLAY NAME": "Chicago",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -94,9 +100,10 @@
 		"IMS": "NULL"
 	},
 	"CHC": {
-		"TRICODE": "CHC",
+		"TRI": "CHC",
 		"NAME": "Chicago",
 		"NICKNAME": "Cubs",
+		"LOCATION": "Chicago IL",
 		"DISPLAY NAME": "Chicago",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -109,9 +116,10 @@
 		"IMS": "NULL"
 	},
 	"CIN": {
-		"TRICODE": "CIN",
+		"TRI": "CIN",
 		"NAME": "Cincinatti",
 		"NICKNAME": "Reds",
+		"LOCATION": "Cincinatti OH",
 		"DISPLAY NAME": "Cincinatti",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -124,9 +132,10 @@
 		"IMS": "NULL"
 	},
 	"CLE": {
-		"TRICODE": "CLE",
+		"TRI": "CLE",
 		"NAME": "Cleveland",
 		"NICKNAME": "Indians",
+		"LOCATION": "Cleveland OH",
 		"DISPLAY NAME": "Cleveland",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -139,9 +148,10 @@
 		"IMS": "NULL"
 	},
 	"COL": {
-		"TRICODE": "COL",
+		"TRI": "COL",
 		"NAME": "Colorado",
 		"NICKNAME": "Rockies",
+		"LOCATION": "Denver CO",
 		"DISPLAY NAME": "Colorado",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -154,9 +164,10 @@
 		"IMS": "NULL"
 	},
 	"DET": {
-		"TRICODE": "DET",
+		"TRI": "DET",
 		"NAME": "Detroit",
 		"NICKNAME": "Tigers",
+		"LOCATION": "Detroit MI",
 		"DISPLAY NAME": "Detroit",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -169,9 +180,10 @@
 		"IMS": "NULL"
 	},
 	"HOU": {
-		"TRICODE": "HOU",
+		"TRI": "HOU",
 		"NAME": "Houston",
 		"NICKNAME": "Astros",
+		"LOCATION": "Houston TX",
 		"DISPLAY NAME": "Houston",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -184,9 +196,10 @@
 		"IMS": "NULL"
 	},
 	"KC": {
-		"TRICODE": "KC",
+		"TRI": "KC",
 		"NAME": "Kansas City",
 		"NICKNAME": "Royals",
+		"LOCATION": "Kansas City MO",
 		"DISPLAY NAME": "Kansas City",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -199,9 +212,10 @@
 		"IMS": "NULL"
 	},
 	"LAA": {
-		"TRICODE": "LAA",
+		"TRI": "LAA",
 		"NAME": "Los Angeles",
 		"NICKNAME": "Angels",
+		"LOCATION": "Los Angeles CA",
 		"DISPLAY NAME": "Los Angeles",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -214,9 +228,10 @@
 		"IMS": "NULL"
 	},
 	"LAD": {
-		"TRICODE": "LAD",
+		"TRI": "LAD",
 		"NAME": "Los Angeles",
 		"NICKNAME": "Dodgers",
+		"LOCATION": "Los Angeles CA",
 		"DISPLAY NAME": "Los Angeles",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -229,9 +244,10 @@
 		"IMS": "NULL"
 	},
 	"MIA": {
-		"TRICODE": "MIA",
+		"TRI": "MIA",
 		"NAME": "Miami",
 		"NICKNAME": "Marlins",
+		"LOCATION": "Miami FL",
 		"DISPLAY NAME": "Miami",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -244,9 +260,10 @@
 		"IMS": "NULL"
 	},
 	"MIL": {
-		"TRICODE": "MIL",
+		"TRI": "MIL",
 		"NAME": "Milwaukee",
 		"NICKNAME": "Brewers",
+		"LOCATION": "Milwaukee WI",
 		"DISPLAY NAME": "Milwaukee",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -259,9 +276,10 @@
 		"IMS": "NULL"
 	},
 	"MIN": {
-		"TRICODE": "MIN",
+		"TRI": "MIN",
 		"NAME": "Minnesota",
 		"NICKNAME": "Twins",
+		"LOCATION": "Minneapolis MN",
 		"DISPLAY NAME": "Minnesota",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -274,9 +292,10 @@
 		"IMS": "NULL"
 	},
 	"NYY": {
-		"TRICODE": "NYY",
+		"TRI": "NYY",
 		"NAME": "New York",
 		"NICKNAME": "Yankees",
+		"LOCATION": "New York NY",
 		"DISPLAY NAME": "New York",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -289,9 +308,10 @@
 		"IMS": "NULL"
 	},
 	"NYM": {
-		"TRICODE": "NYM",
+		"TRI": "NYM",
 		"NAME": "New York",
 		"NICKNAME": "Mets",
+		"LOCATION": "New York NY",
 		"DISPLAY NAME": "New York",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -304,9 +324,10 @@
 		"IMS": "NULL"
 	},
 	"OAK": {
-		"TRICODE": "OAK",
+		"TRI": "OAK",
 		"NAME": "Oakland",
 		"NICKNAME": "Athletics",
+		"LOCATION": "Oakland CA",
 		"DISPLAY NAME": "Oakland",
 		"NICKNAME2": "A's",
 		"LEAGUE": "American",
@@ -319,9 +340,10 @@
 		"IMS": "NULL"
 	},
 	"PHI": {
-		"TRICODE": "PHI",
+		"TRI": "PHI",
 		"NAME": "Philadelphia",
 		"NICKNAME": "Phillies",
+		"LOCATION": "Philadelphia PA",
 		"DISPLAY NAME": "Philadelphia",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -334,9 +356,10 @@
 		"IMS": "NULL"
 	},
 	"PIT": {
-		"TRICODE": "PIT",
+		"TRI": "PIT",
 		"NAME": "Pittsburgh",
 		"NICKNAME": "Pirates",
+		"LOCATION": "Pittsburgh PA",
 		"DISPLAY NAME": "Pittsburgh",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -349,9 +372,10 @@
 		"IMS": "NULL"
 	},
 	"SD": {
-		"TRICODE": "SD",
+		"TRI": "SD",
 		"NAME": "San Diego",
 		"NICKNAME": "Padres",
+		"LOCATION": "San Diego CA",
 		"DISPLAY NAME": "San Diego",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -364,9 +388,10 @@
 		"IMS": "NULL"
 	},
 	"SF": {
-		"TRICODE": "SF",
+		"TRI": "SF",
 		"NAME": "San Francisco",
 		"NICKNAME": "Giants",
+		"LOCATION": "San Francisco CA",
 		"DISPLAY NAME": "San Francisco",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -379,9 +404,10 @@
 		"IMS": "NULL"
 	},
 	"SEA": {
-		"TRICODE": "SEA",
+		"TRI": "SEA",
 		"NAME": "Seattle",
 		"NICKNAME": "Mariners",
+		"LOCATION": "Seattle WA",
 		"DISPLAY NAME": "Seattle",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -394,9 +420,10 @@
 		"IMS": "NULL"
 	},
 	"STL": {
-		"TRICODE": "STL",
+		"TRI": "STL",
 		"NAME": "St. Louis",
 		"NICKNAME": "Cardinals",
+		"LOCATION": "St. Louis MO",
 		"DISPLAY NAME": "St. Louis",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
@@ -409,9 +436,10 @@
 		"IMS": "NULL"
 	},
 	"TB": {
-		"TRICODE": "TB",
+		"TRI": "TB",
 		"NAME": "Tampa Bay",
 		"NICKNAME": "Rays",
+		"LOCATION": "Tampa Bay FL",
 		"DISPLAY NAME": "Tampa Bay",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -424,9 +452,10 @@
 		"IMS": "NULL"
 	},
 	"TEX": {
-		"TRICODE": "TEX",
+		"TRI": "TEX",
 		"NAME": "Texas",
 		"NICKNAME": "Rangers",
+		"LOCATION": "Arlington TX",
 		"DISPLAY NAME": "Texas",
 		"NICKNAME2": "",
 		"LEAGUE": "American",
@@ -439,9 +468,10 @@
 		"IMS": "NULL"
 	},
 	"TOR": {
-		"TRICODE": "TOR",
+		"TRI": "TOR",
 		"NAME": "Toronto",
 		"NICKNAME": "Blue Jays",
+		"LOCATION": "Toronto ON",
 		"DISPLAY NAME": "Toronto",
 		"NICKNAME2": "Jays",
 		"LEAGUE": "American",
@@ -454,9 +484,10 @@
 		"IMS": "NULL"
 	},
 	"WSH": {
-		"TRICODE": "WSH",
+		"TRI": "WSH",
 		"NAME": "Washington",
 		"NICKNAME": "Nationals",
+		"LOCATION": "Washington DC",
 		"DISPLAY NAME": "Washington",
 		"NICKNAME2": "",
 		"LEAGUE": "National",
