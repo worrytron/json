@@ -1,0 +1,42 @@
+{
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "NULL"
+    },
+	"NULL": {
+		"TRI": "NUL",
+		"NAME": "NULLSHOW",
+	},
+    "BBTN": {
+        "TRI": "BBTN",
+        "NAME": "Baseball Tonight"
+    },
+    "BBEN": {
+        "TRI": "BBEN",
+        "NAME": "Béisbol Esta Noche",
+    },
+    "SNB": {
+        "TRI": "SNB",
+        "NAME": "Sunday Night Baseball",
+    },
+    "MLB": {
+        "TRI": "MLB",
+        "NAME": "Major League Baseball",
+    },
+    "VIVA": {
+        "TRI": "VIVA",
+        "NAME": "Viva El Béisbol"
+    },
+    "DOMINGO": {
+        "TRI": "DOMINGO",
+        "NAME": "Domingo de Grandes Ligas"
+    },
+    "BASEBALL": {
+        "TRI": "BASEBALL",
+        "NAME": "ESPN Baseball"
+    },
+    "BEISBOL": {
+        "TRI": "BEISBOL",
+        "NAME": "ESPN Beisbol"
+    }
+}

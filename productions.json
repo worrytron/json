@@ -151,6 +151,7 @@
         "root": "Y:/Workspace/MASTER_PROJECTS/MLB_2018",
         "json": {
             "teams": "Y:/Workspace/SCRIPTS/ESPNTools/.json/MLB/teams.json",
+            "shows": "Y:/Workspace/SCRIPTS/ESPNTools/.json/MLB/shows.json",
             "ae": "Y:/Workspace/SCRIPTS/ESPNTools/.json/MLB/ae.json",
             "c4d": "Y:/Workspace/SCRIPTS/ESPNTools/.json/MLB/c4d.json"
         },
@@ -166,6 +167,10 @@
             "render_2d":      "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ANIMATION/{0}/render_2d",
             "camera_export":  "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ANIMATION/{0}/cam",
             "teamlogos2d":    "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ASSETS/LOGOS_TEAM",
+            "showlogos2d":    "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ASSETS/LOGOS_SHOW",
+            "sponsorlogos2d": "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ASSETS/LOGOS_SPONSORS",
+            "teamlogos3d":    "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ASSETS/LOGOS_TEAM3D",
+            "showlogos3d":    "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ASSETS/LOGOS_SHOW3D",
             "textures":       "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ASSETS/TEXTURES",
             "customasset01":  "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ASSETS/CUSTOM01",
             "customasset02":  "Y:/Workspace/MASTER_PROJECTS/MLB_2018/ASSETS/CUSTOM02",
