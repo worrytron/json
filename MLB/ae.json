@@ -67,7 +67,7 @@
         "(SourceText) Custom Text C": "comp('0. Dashboard').layer('CUSTOM TEXT C').text.sourceText;",
         "(SourceText) Custom Text D": "comp('0. Dashboard').layer('CUSTOM TEXT D').text.sourceText;"
     },
-
+    
     "Team Logosheet": {
         "CAP": {
             "Size": [2048, 2048],
@@ -140,6 +140,27 @@
             "Pos": [1024, 350, 0],
             "Anx": [1198.8, 407.1, 0],
             "Scl": [620.3, 620.300000000001, 100]
+        }
+    },
+    
+    "Show Logosheet": {
+        "SHOW WORDMARK LOGO": {
+            "Size": [2048, 700],
+            "Pos": [1024, 350, 0],
+            "Anx": [675.9, 263.6, 0],
+            "Scl": [620.3, 620.300000000001, 100]
+        },
+        "SHOW NETWORK LOGO": {
+            "Size": [2048, 2048],
+            "Pos": [1024, 1024, 0],
+            "Anx": [162.7, 285.599999999999, 0],
+            "Scl": [1330.5, 1330.5, 100]
+        },
+        "SHOW ICON LOGO": {
+            "Size": [2048, 2048],
+            "Pos": [1024, 1024, 0],
+            "Anx": [348.3, 285.5, 0],
+            "Scl": [1332.9, 1332.9, 100]
         }
     }
 }
