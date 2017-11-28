@@ -8,7 +8,8 @@
         "dashboard": ["0. Dashboard", "CompItem", {}],
         "precomps_bin": ["1. TOOLKIT PRECOMPS", "FolderItem", {
             "awaysheet": ["Away Logosheet Master Switch", "CompItem", {}],
-            "teamsheet": ["Team Logosheet Master Switch", "CompItem", {}]
+            "teamsheet": ["Team Logosheet Master Switch", "CompItem", {}],
+            "showsheet": ["Show Logosheet Master Switch", "CompItem", {}]
         }],
         "working_bin": ["2. WORKING FOLDER", "FolderItem", {}],
         "render_bin": ["3. RENDER COMPS", "FolderItem", {}],

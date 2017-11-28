@@ -47,6 +47,8 @@
         "root": "~/",
         "pub" : "~/",
         "folder_lookup": {
+        	"animroot":       "/ANIMATION",
+        	"projectroot":    "/ANIMATION/{0}",
             "ae_project":     "/ANIMATION/{0}/ae",
             "ae_backup":      "/ANIMATION/{0}/ae/backup",
             "c4d_project":    "/ANIMATION/{0}/c4d",
@@ -75,6 +77,8 @@
         "root": "Y:/Workspace/MASTER_PROJECTS/CBB",
         "pub" : "Y:/PublishData/CBB",
         "folder_lookup": {
+        	"animroot":       "/ANIMATION",
+        	"projectroot":    "/ANIMATION/{0}",
             "ae_project":     "/ANIMATION/{0}/ae",
             "ae_backup":      "/ANIMATION/{0}/ae/backup",
             "c4d_project":    "/ANIMATION/{0}/c4d",
@@ -102,6 +106,8 @@
         "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/NBA_2016",
         "folder_lookup": {
+        	"animroot":       "/001_PROJECTS/000_Animation",
+        	"projectroot":    "/001_PROJECTS/000_Animation/{0}",
             "ae_project":     "/001_PROJECTS/000_Animation/{0}/ae",
             "ae_backup":      "/001_PROJECTS/000_Animation/{0}/ae/backup",
             "c4d_project":    "/001_PROJECTS/000_Animation/{0}/c4d",
@@ -126,7 +132,8 @@
         "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/MNF",
         "folder_lookup": {
-            "animroot":       "/PROJECTS/000_Animation",
+        	"animroot":       "/PROJECTS/000_Animation",
+            "projectroot":    "/PROJECTS/000_Animation/{0}",
             "ae_project":     "/PROJECTS/000_Animation/{0}/ae",
             "ae_backup":      "/PROJECTS/000_Animation/{0}/ae/backup",
             "c4d_project":    "/PROJECTS/000_Animation/{0}/c4d",
@@ -151,6 +158,8 @@
         "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/MLB_2018",
         "folder_lookup": {
+        	"animroot":       "/ANIMATION",
+        	"projectroot":    "/ANIMATION/{0}",
             "ae_project":     "/ANIMATION/{0}/ae",
             "ae_backup":      "/ANIMATION/{0}/ae/backup",
             "c4d_project":    "/ANIMATION/{0}/c4d",
