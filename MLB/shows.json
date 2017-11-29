@@ -15,8 +15,8 @@
         "TRI": "BBEN",
         "NAME": "Béisbol Esta Noche"
     },
-    "SNB": {
-        "TRI": "SNB",
+    "SUNDAY": {
+        "TRI": "SUNDAY",
         "NAME": "Sunday Night Baseball"
     },
     "MLB": {
