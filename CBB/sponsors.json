@@ -1,0 +1,10 @@
+{
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "MLB"
+    },
+	"NULL": {
+		"TRI": "NULL",
+		"NAME": "NULLSPONSOR"
+	}
+}
