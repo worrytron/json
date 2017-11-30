@@ -32,7 +32,7 @@
                     "teamScript" : ["Team Script", "CompItem", {}],
                     "showScript" : ["Show Script", "CompItem", {}],
                     "custScript" : ["Custom Text Script", "CompItem", {}]
-                }],
+                }]
             }],
             "wiprenderbin": ["WIP Render Comps", "FolderItem", {}]
         }]
