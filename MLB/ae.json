@@ -22,7 +22,7 @@
                 "teams1_bin": ["Away Logo Sheets", "FolderItem", {}],
                 "spons0_bin": ["Sponsor Logo Sheets", "FolderItem", {}],
                 "shows0_bin": ["Show Logo Sheets", "FolderItem", {}],
-                "asset1_bin": ["Custom Asset 01", "FolderItem", {}],
+                "asset1_bin": ["Team Posters", "FolderItem", {}],
                 "asset2_bin": ["Custom Asset 02", "FolderItem", {}],
                 "asset3_bin": ["Custom Asset 03", "FolderItem", {}],
                 "asset4_bin": ["Custom Asset 04", "FolderItem", {}],
