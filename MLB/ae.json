@@ -18,11 +18,11 @@
                 "guides_bin": ["Guidelayers", "FolderItem", {
                     "bottomline": ["Guidelayers", "CompItem", {}]
                 }],
-                "teams0_bin": ["Team Logo Sheets", "FolderItem", {}],
-                "teams1_bin": ["Away Logo Sheets", "FolderItem", {}],
-                "spons0_bin": ["Sponsor Logo Sheets", "FolderItem", {}],
-                "shows0_bin": ["Show Logo Sheets", "FolderItem", {}],
-                "asset1_bin": ["Team Posters", "FolderItem", {}],
+                "team0_bin": ["Team Logo Sheets", "FolderItem", {}],
+                "team1_bin": ["Away Logo Sheets", "FolderItem", {}],
+                "spon0_bin": ["Sponsor Logo Sheets", "FolderItem", {}],
+                "show0_bin": ["Show Logo Sheets", "FolderItem", {}],
+                "asset1_bin": ["Custom Asset 01", "FolderItem", {}],
                 "asset2_bin": ["Custom Asset 02", "FolderItem", {}],
                 "asset3_bin": ["Custom Asset 03", "FolderItem", {}],
                 "asset4_bin": ["Custom Asset 04", "FolderItem", {}],
@@ -141,9 +141,50 @@
             "Pos": [1024, 350, 0],
             "Anx": [1198.8, 407.1, 0],
             "Scl": [620.3, 620.300000000001, 100]
+        },
+        "POSTER 1":{
+            "Size":[1000,1500],
+            "Pos":[0,0,0],
+            "Anx":[920,676.7,0],
+            "Scl":[1000,1000,100]
+        },
+        "POSTER 2":{
+            "Size":[1000,1500],
+            "Pos":[0,0,0],
+            "Anx":[1020,676.7,0],
+            "Scl":[1000,1000,100]
+        },
+        "POSTER 3":{
+            "Size":[1000,1000],
+            "Pos":[0,-250,0],
+            "Anx":[1120,651.7,0],
+            "Scl":[1000,1000,100]
+        },
+        "POSTER 4":{
+            "Size":[1000,667],
+            "Pos":[0,-416.5,0],
+            "Anx":[1120,735,0],
+            "Scl":[1000,1000,100]
+        },
+        "POSTER 5":{
+            "Size":[1000,1500],
+            "Pos":[0,0,0],
+            "Anx":[1220,676.7,0],
+            "Scl":[1000,1000,100]
+        },
+        "POSTER 6":{
+            "Size":[1000,1500],
+            "Pos":[0,0,0],
+            "Anx":[1320,676.7,0],
+            "Scl":[1000,1000,100]
+        },
+        "POSTER 7":{
+            "Size":[1000,1500],
+            "Pos":[0,0,0],
+            "Anx":[1420,676.7,0],
+            "Scl":[1000,1000,100]
         }
     },
-    
     "Show Logosheet": {
         "SHOW WORDMARK LOGO": {
             "Size": [2048, 700],

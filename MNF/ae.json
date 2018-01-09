@@ -1,7 +1,7 @@
 {
     "ESPN_META": { 
         "version": 1.1, 
-        "production": "NULL" 
+        "production": "MNF" 
     }, 
     
     "Template": {
@@ -18,10 +18,10 @@
                 "guides_bin" : ["Guidelayers", "FolderItem", {
                     "bottomline": ["Guidelayers", "CompItem", {}]
                 }],
-                "teams0_bin" : ["Team Logo Sheets", "FolderItem", {}],
-                "teams1_bin" : ["Away Logo Sheets", "FolderItem", {}],
-                "spons0_bin" : ["Sponsor Logo Sheets", "FolderItem", {}],
-                "shows0_bin" : ["Show Logo Sheets", "FolderItem", {}],
+                "team0_bin" : ["Team Logo Sheets", "FolderItem", {}],
+                "team1_bin" : ["Away Logo Sheets", "FolderItem", {}],
+                "spon0_bin" : ["Sponsor Logo Sheets", "FolderItem", {}],
+                "show0_bin" : ["Show Logo Sheets", "FolderItem", {}],
                 "asset1_bin" : ["Custom Asset 01", "FolderItem", {}],
                 "asset2_bin" : ["Custom Asset 02", "FolderItem", {}],
                 "asset3_bin" : ["Custom Asset 03", "FolderItem", {}],
