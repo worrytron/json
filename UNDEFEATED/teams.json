@@ -1,0 +1,67 @@
+{
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "NULL"
+    },
+    "NULL":{
+        "CONFERENCE": "NULL",
+        "DISPLAY NAME": "NULL&",
+        "IMS": "NULL", 
+        "LOCATION": "NULL", 
+        "NICKNAME": "NULL", 
+        "PRIMARY": "ff00ff", 
+        "SECONDARY": "ff00ff", 
+        "TIER": "0", 
+        "TRI": "NUL"
+    },
+    "Palette 1":{
+        "CONFERENCE": "",
+        "DISPLAY NAME": "",
+        "IMS": "",
+        "LOCATION": "",
+        "PRIMARY": "ff0000",
+        "SECONDARY": "ffffff",
+        "TIER": "",
+        "TRI": "PAL1"
+    },
+    "Palette 2":{
+        "CONFERENCE": "",
+        "DISPLAY NAME": "",
+        "IMS": "",
+        "LOCATION": "",
+        "PRIMARY": "ff0000",
+        "SECONDARY": "ffffff",
+        "TIER": "",
+        "TRI": "PAL2"
+    },
+    "Palette 3":{
+        "CONFERENCE": "",
+        "DISPLAY NAME": "",
+        "IMS": "",
+        "LOCATION": "",
+        "PRIMARY": "ff0000",
+        "SECONDARY": "ffffff",
+        "TIER": "",
+        "TRI": "PAL3"
+    },
+    "Palette 4":{
+        "CONFERENCE": "",
+        "DISPLAY NAME": "",
+        "IMS": "",
+        "LOCATION": "",
+        "PRIMARY": "ff0000",
+        "SECONDARY": "ffffff",
+        "TIER": "",
+        "TRI": "PAL4"
+    },
+    "Palette 5":{
+        "CONFERENCE": "",
+        "DISPLAY NAME": "",
+        "IMS": "",
+        "LOCATION": "",
+        "PRIMARY": "ff0000",
+        "SECONDARY": "ffffff",
+        "TIER": "",
+        "TRI": "PAL5"
+    }
+}
