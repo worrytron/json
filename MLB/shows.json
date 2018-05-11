@@ -23,20 +23,16 @@
         "TRI": "MLB",
         "NAME": "Major League Baseball"
     },
-    "VIVA": {
-        "TRI": "VIVA",
-        "NAME": "Viva El Béisbol"
+    "BEISBOL": {
+        "TRI": "BEISBOL",
+        "NAME": "ESPN Béisbol"
     },
     "DOMINGO": {
         "TRI": "DOMINGO",
         "NAME": "Domingo de Grandes Ligas"
     },
-    "GENERIC": {
-        "TRI": "BASEBALL",
-        "NAME": "ESPN Baseball"
-    },
-    "GENERIC INET": {
-        "TRI": "BEISBOL",
-        "NAME": "ESPN Beisbol"
+    "COUNTDOWN": {
+        "TRI": "COUNTDOWN",
+        "NAME": "Sunday Night Countdown"
     }
 }

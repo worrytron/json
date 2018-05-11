@@ -13,55 +13,5 @@
         "SECONDARY": "ff00ff", 
         "TIER": "0", 
         "TRI": "NUL"
-    },
-    "Palette 1":{
-        "CONFERENCE": "NULL",
-        "DISPLAY NAME": "NULL",
-        "IMS": "NULL",
-        "LOCATION": "NULL",
-        "PRIMARY": "ff0000",
-        "SECONDARY": "ffffff",
-        "TIER": "NULL",
-        "TRI": "PAL1"
-    },
-    "Palette 2":{
-        "CONFERENCE": "NULL",
-        "DISPLAY NAME": "NULL",
-        "IMS": "NULL",
-        "LOCATION": "NULL",
-        "PRIMARY": "ff0000",
-        "SECONDARY": "ffffff",
-        "TIER": "NULL",
-        "TRI": "PAL2"
-    },
-    "Palette 3":{
-        "CONFERENCE": "NULL",
-        "DISPLAY NAME": "NULL",
-        "IMS": "NULL",
-        "LOCATION": "NULL",
-        "PRIMARY": "ff0000",
-        "SECONDARY": "ffffff",
-        "TIER": "NULL",
-        "TRI": "PAL3"
-    },
-    "Palette 4":{
-        "CONFERENCE": "NULL",
-        "DISPLAY NAME": "NULL",
-        "IMS": "NULL",
-        "LOCATION": "NULL",
-        "PRIMARY": "ff0000",
-        "SECONDARY": "ffffff",
-        "TIER": "NULL",
-        "TRI": "PAL4"
-    },
-    "Palette 5":{
-        "CONFERENCE": "NULL",
-        "DISPLAY NAME": "NULL",
-        "IMS": "NULL",
-        "LOCATION": "NULL",
-        "PRIMARY": "ff0000",
-        "SECONDARY": "ffffff",
-        "TIER": "NULL",
-        "TRI": "PAL5"
     }
 }
