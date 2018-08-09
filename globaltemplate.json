@@ -1,0 +1,41 @@
+{
+    "bottomline": "Y:/Workspace/DESIGN_RESOURCES/Bottomline/keyable_BtmLn_reference_examples/Bottomline.tga",
+    "folderStructs":  {
+        "ANIMATION": {},
+        "ASSETS": {},
+        "DESIGNERS": {},
+        "DOCUMENTATION": {},
+        "INSERT": {},
+        "REFERENCE": {},
+        "REVIEW": {},
+        "SCRIPTS": {},
+        "SOUND_DESIGN": {
+            "TO_SD": {},
+            "FROM_SD": {}
+        },
+        "WEEKLY": {},
+        "XFER": {},
+        "PROJECT": {
+            "ae": {
+                "backup": {}
+            },
+            "c4d": {
+                "tex": {},
+                "export": {},
+                "backup": {}
+            },
+            "cam": {},
+            "maya": {
+                "includes": {}
+            },
+            "nuke": {},
+            "qt_wip": {},
+            "qt_final": {},
+            "render_2d": {
+                "prerenders": {}
+            },
+            "render_3d": {},
+            "sfx": {}
+        }
+    }
+}
