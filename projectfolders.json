@@ -1,5 +1,5 @@
 {
-    "folderStructs":  {
+    "PRODUCTION": {
         "ANIMATION": {},
         "ASSETS": {},
         "DESIGNERS": {},
@@ -13,28 +13,28 @@
             "FROM_SD": {}
         },
         "WEEKLY": {},
-        "XFER": {},
-        "PROJECT": {
-            "ae": {
-                "backup": {}
-            },
-            "c4d": {
-                "tex": {},
-                "export": {},
-                "backup": {}
-            },
-            "cam": {},
-            "maya": {
-                "includes": {}
-            },
-            "nuke": {},
-            "qt_wip": {},
-            "qt_final": {},
-            "render_2d": {
-                "prerenders": {}
-            },
-            "render_3d": {},
-            "sfx": {}
-        }
+        "XFER": {},        
+    },
+    "PROJECT": {
+        "ae": {
+            "backup": {}
+        },
+        "c4d": {
+            "tex": {},
+            "export": {},
+            "backup": {}
+        },
+        "cam": {},
+        "maya": {
+            "includes": {}
+        },
+        "nuke": {},
+        "qt_wip": {},
+        "qt_final": {},
+        "render_2d": {
+            "prerenders": {}
+        },
+        "render_3d": {},
+        "sfx": {}
     }
 }

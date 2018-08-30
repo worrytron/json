@@ -1,4 +1,9 @@
 {
+    "ESPN_META_CAGE": {
+        "schema": 1.1,
+        "id": "00000f"
+    },
+
     "ae_template": {
         "dashboard" : ["0. Dashboard", "CompItem", {}],
         "precomps_bin"  : ["1. TOOLKIT PRECOMPS", "FolderItem", {
