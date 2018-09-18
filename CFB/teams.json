@@ -2032,7 +2032,7 @@
         "SKY" : "04",
         "SIGN" : "B"
     },
-    "WKY":{
+    "WKU":{
         "CONFERENCE" : "C-USA",
         "DISPLAY NAME" : "Western Kentucky",
         "IMS" : "ims name missing",
@@ -2041,7 +2041,7 @@
         "PRIMARY" : "125,0,1",
         "SECONDARY" : "236,236,236",
         "TIER": "1",
-        "TRI": "WKY",
+        "TRI": "WKU",
         "BILLBOARD" : "0",
         "NEON" : "1",
         "MATTE" : "10",

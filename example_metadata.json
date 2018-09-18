@@ -1,0 +1,56 @@
+{
+  "plat": "ae",
+  "prod": "CBB",
+  "project": "X_TEST",
+  "scene": "IGNOREME",
+  "version": 0,
+  "show": ["NULL", false],
+  "sponsor": [
+    {
+      "id": "NULL",
+      "tricode": "NULL",
+      "name": "NULLSPONSOR"
+    },
+    false
+  ],
+  "customA": ["Firstname", false],
+  "customB": ["Lastname", false],
+  "customC": ["Forward", false],
+  "customD": ["17", false],
+  "team0": ["Air Force", false],
+  "team1": ["Akron", false]
+}
+
+
+{
+	"version": [1,1,0],
+	"plat": "ae",
+	"prod": "CBB",
+	"root": "//some/path/spec/",
+	"project": "X_TEST",
+	"scene": "IGNOREME",
+	"version": 0,
+	"show": "NULL",
+	"misc": "NULL",
+	"customA": "Firstname",
+	"customB": "Lastname",
+	"customC": "Forward",
+	"customD": "17",
+	"team0": "Air Force",
+	"team1": "Akron",
+	"filename_team0": false,
+	"filename_team1": false,
+	"filename_show": false,
+	"filename_misc": false,
+	"filename_customA": false,
+	"filename_customB": false,
+	"filename_customC": false,
+	"filename_customD": false,
+	"custom_assets": {
+        "asset1_bin" : ["Custom Asset 01", "FolderItem", {}],
+        "asset2_bin" : ["Custom Asset 02", "FolderItem", {}],
+        "asset3_bin" : ["Custom Asset 03", "FolderItem", {}],
+        "asset4_bin" : ["Custom Asset 04", "FolderItem", {}],
+        "asset5_bin" : ["Custom Asset 05", "FolderItem", {}]
+    }
+}
