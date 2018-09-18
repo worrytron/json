@@ -1,16 +1,54 @@
 {
-    "ESPN_META_CAGE": {
-        "schema": 1.1,
-        "id": "00000f"
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "GLOBAL"
+    },
+    "FOLDER_TEMPLATE": {
+        "ANIMATION": {},
+        "ASSETS": {},
+        "DESIGNERS": {},
+        "DOCUMENTATION": {},
+        "INSERT": {},
+        "REFERENCE": {},
+        "REVIEW": {},
+        "SCRIPTS": {},
+        "SOUND_DESIGN": {
+            "TO_SD": {},
+            "FROM_SD": {}
+        },
+        "WEEKLY": {},
+        "XFER": {},
+        "PROJECT": {
+            "ae": {
+                "backup": {}
+            },
+            "c4d": {
+                "tex": {},
+                "export": {},
+                "backup": {}
+            },
+            "cam": {},
+            "maya": {
+                "includes": {}
+            },
+            "nuke": {},
+            "qt_wip": {},
+            "qt_final": {},
+            "render_2d": {
+                "prerenders": {}
+            },
+            "render_3d": {},
+            "sfx": {}
+        }
     },
     "NULL": {
         "live": false,
-        "schema": 1.1,
+        "vers": 1.1,
         "root": "~/",
         "pub" : "~/",
-        "folders": {
-        	"animroot":       "/ANIMATION",
-        	"projectroot":    "/ANIMATION/{0}",
+        "folder_lookup": {
+            "animroot":       "/ANIMATION",
+            "projectroot":    "/ANIMATION/{0}",
             "ae_project":     "/ANIMATION/{0}/ae",
             "ae_backup":      "/ANIMATION/{0}/ae/backup",
             "c4d_project":    "/ANIMATION/{0}/c4d",
@@ -35,12 +73,12 @@
     },
     "CBB": {
         "live": true,
-        "schema": 1.1,
+        "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/CBB",
         "pub" : "Y:/PublishData/CBB",
-        "folders": {
-        	"animroot":       "/ANIMATION",
-        	"projectroot":    "/ANIMATION/{0}",
+        "folder_lookup": {
+            "animroot":       "/ANIMATION",
+            "projectroot":    "/ANIMATION/{0}",
             "ae_project":     "/ANIMATION/{0}/ae",
             "ae_backup":      "/ANIMATION/{0}/ae/backup",
             "c4d_project":    "/ANIMATION/{0}/c4d",
@@ -65,11 +103,11 @@
     },
     "NBA": {
         "live": true,
-        "schema": 1.1,
+        "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/NBA_2016",
-        "folders": {
-        	"animroot":       "/001_PROJECTS/000_Animation",
-        	"projectroot":    "/001_PROJECTS/000_Animation/{0}",
+        "folder_lookup": {
+            "animroot":       "/001_PROJECTS/000_Animation",
+            "projectroot":    "/001_PROJECTS/000_Animation/{0}",
             "ae_project":     "/001_PROJECTS/000_Animation/{0}/ae",
             "ae_backup":      "/001_PROJECTS/000_Animation/{0}/ae/backup",
             "c4d_project":    "/001_PROJECTS/000_Animation/{0}/c4d",
@@ -92,10 +130,10 @@
     },
     "MNF": {
         "live": true,
-        "schema": 1.1,
+        "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/MNF",
-        "folders": {
-        	"animroot":       "/PROJECTS/000_Animation",
+        "folder_lookup": {
+            "animroot":       "/PROJECTS/000_Animation",
             "projectroot":    "/PROJECTS/000_Animation/{0}",
             "ae_project":     "/PROJECTS/000_Animation/{0}/ae",
             "ae_backup":      "/PROJECTS/000_Animation/{0}/ae/backup",
@@ -118,11 +156,11 @@
     },
     "MLB": {
         "live": true,
-        "schema": 1.1,
+        "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/MLB_2018",
-        "folders": {
-        	"animroot":       "/ANIMATION",
-        	"projectroot":    "/ANIMATION/{0}",
+        "folder_lookup": {
+            "animroot":       "/ANIMATION",
+            "projectroot":    "/ANIMATION/{0}",
             "ae_project":     "/ANIMATION/{0}/ae",
             "ae_backup":      "/ANIMATION/{0}/ae/backup",
             "c4d_project":    "/ANIMATION/{0}/c4d",
@@ -148,11 +186,11 @@
     },
     "UNDEFEATED": {
         "live": true,
-        "schema": 1.1,
+        "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/THE_UNDEFEATED_DIGITAL",
-        "folders": {
-        	"animroot":       "/ANIMATION",
-        	"projectroot":    "/ANIMATION/{0}",
+        "folder_lookup": {
+            "animroot":       "/ANIMATION",
+            "projectroot":    "/ANIMATION/{0}",
             "ae_project":     "/ANIMATION/{0}/ae",
             "ae_backup":      "/ANIMATION/{0}/ae/backup",
             "c4d_project":    "/ANIMATION/{0}/c4d",
@@ -178,9 +216,9 @@
     },
     "CFB": {
         "live": true,
-        "schema": 1.1,
+        "vers": 1.1,
         "root": "Y:/Workspace/MASTER_PROJECTS/CFB_15",
-        "folders": {
+        "folder_lookup": {
             "animroot":       "/PROJECTS/000_Animation",
             "projectroot":    "/PROJECTS/000_Animation/{0}",
             "ae_project":     "/PROJECTS/000_Animation/{0}/ae",

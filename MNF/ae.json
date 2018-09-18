@@ -39,12 +39,14 @@
     },
 
     "Expressions": {
-        "(Color) Home Team Primary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([25,130]);",
-        "(Color) Home Team Secondary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([100,131]);",
-        "(Color) Home Team Tertiary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([166,129]);",
-        "(Color) Away Team Primary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([15,127]);",
-        "(Color) Away Team Secondary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([100,131]);",
-        "(Color) Away Team Tertiary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([166,129]);",
+        "(Color) Home Team Primary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([5,5]);",
+        "(Color) Home Team Secondary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([187,5]);",
+        "(Color) Home Team Tertiary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([439,5]);",
+        "(Color) Home Team Background": "comp('HOME SWATCH COLORS').layer(1).sampleImage([608,5]);",
+        "(Color) Away Team Primary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([5,5]);",
+        "(Color) Away Team Secondary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([187,5]);",
+        "(Color) Away Team Tertiary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([439,5]);",
+        "(Color) Away Team Background": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([608,5]);",        
         "(SourceText) Home Team Name": "comp('0. Dashboard').layer('TEAM NAME').text.sourceText;",
         "(SourceText) Home Team Nickname": "comp('0. Dashboard').layer('NICKNAME').text.sourceText;",
         "(SourceText) Home Team Tricode": "comp('0. Dashboard').layer('TRICODE').text.sourceText;",
@@ -60,42 +62,216 @@
     },
 
     "Team Logosheet": {
-        "GLASS LOGO": {
-            "Size": [2048, 2048],
-            "Pos": [1012.74893617021, 1093.36170212767, 0],
-            "Anx": [347.25, 290.644124464197, 0],
-            "Scl": [1332, 1332, 100]
-        },
-        "KNOCKOUT LOGO": {
-            "Size": [2048, 2048],
-            "Pos": [1012.74893617021, 1093.36170212767, 0],
-            "Anx": [161.75, 476.644124464197, 0],
-            "Scl": [1332, 1332, 100]
-        },
-        "ONYX LOGO": {
-            "Size": [2048, 2048],
-            "Pos": [1012.74893617021, 1093.36170212767, 0],
-            "Anx": [347.25, 476.644124464197, 0],
-            "Scl": [1332, 1332, 100]
-        },
-        "OUTLINE LOGO": {
-            "Size": [2048, 2048],
-            "Pos": [1012.74893617021, 1093.36170212767, 0],
-            "Anx": [1149.5, 476, 0],
-            "Scl": [1332, 1332, 100]
-        },
-        "PRIMARY LOGO": {
-            "Size": [2048, 2048],
-            "Pos": [1012.74893617021, 1093.36170212767, 0],
-            "Anx": [161.880620788219, 290.644124464197, 0],
-            "Scl": [1332, 1332, 100]
-        },
-        "SWATCH COLORS": {
-            "Size": [256, 256],
-            "Pos": [120.74893617021, 153.361702127671, 0],
-            "Anx": [672.880620788219, 411.644124464197, 0],
-            "Scl": [78, 77.9999999999999, 100]
-        }
+      "GLASS LOGO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          1516.1,
+          283.9,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "GLASS LOGO MONO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          1706,
+          283.2,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "PRIMARY LOGO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          162.5,
+          285.2,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "PRIMARY LOGO KO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          162.5,
+          471.4,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "PRIMARY LOGO OUTLINE": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          1142.6,
+          285.2,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "SECONDARY LOGO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          348.3,
+          285.2,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "SECONDARY LOGO KO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          348.3,
+          471.6,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "SWATCH COLORS": {
+        "Size": [
+          676,
+          68
+        ],
+        "Pos": [
+          338,
+          34,
+          0
+        ],
+        "Anx": [
+          669.100000000001,
+          494.9,
+          0
+        ],
+        "Scl": [
+          174,
+          174,
+          100
+        ]
+      },
+      "WORDMARK": {
+        "Size": [
+          1538,
+          512
+        ],
+        "Pos": [
+          769,
+          256,
+          0
+        ],
+        "Anx": [
+          675.8,
+          263.799999999999,
+          0
+        ],
+        "Scl": [
+          464,
+          464,
+          100
+        ]
+      },
+      "WORDMARK KO": {
+        "Size": [
+          1538,
+          512
+        ],
+        "Pos": [
+          769,
+          256,
+          0
+        ],
+        "Anx": [
+          675.8,
+          402.699999999999,
+          0
+        ],
+        "Scl": [
+          464,
+          464,
+          100
+        ]
+      }
     },
     "Show Logosheet": {
         "SHOW LOGO PLZ IGNORE": {
