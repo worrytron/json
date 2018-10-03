@@ -2333,6 +2333,18 @@
     "TIER": "1", 
     "TRI": "NORF"
   }, 
+  "North Alabama":{
+    "COACH": "Tony Pujol", 
+    "CONFERENCE": "Gulf South", 
+    "DISPLAY NAME": "North Alabama", 
+    "IMS": "NORTHALABAMA", 
+    "LOCATION": "Florence AL", 
+    "NICKNAME": "Lions", 
+    "PRIMARY": "5e2d84", 
+    "SECONDARY": "b4a76c", 
+    "TIER": "1", 
+    "TRI": "UNC"    
+  },
   "North Carolina": {
     "COACH": "Roy Williams", 
     "CONFERENCE": "ACC", 
