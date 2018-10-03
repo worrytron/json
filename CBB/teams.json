@@ -1097,10 +1097,10 @@
     "TIER": "1", 
     "TRI": "FOR"
   }, 
-  "Fort Wayne": {
+  "Purdue Fort Wayne": {
     "COACH": "Jon Coffman", 
     "CONFERENCE": "Summit League", 
-    "DISPLAY NAME": "Fort Wayne", 
+    "DISPLAY NAME": "Purdue Fort Wayne", 
     "IMS": "FORTWAYNE", 
     "LOCATION": "Fort Wayne IN", 
     "NICKNAME": "Mastodons", 
@@ -3701,10 +3701,10 @@
     "TIER": "1", 
     "TRI": "UIC"
   }, 
-  "UL Lafayette": {
+  "Louisiana": {
     "COACH": "Bob Marlin", 
     "CONFERENCE": "Sun Belt", 
-    "DISPLAY NAME": "UL Lafayette", 
+    "DISPLAY NAME": "Louisiana", 
     "IMS": "ULLAFAYETTE", 
     "LOCATION": "Lafayette LA", 
     "NICKNAME": "Ragin' Cajuns", 
