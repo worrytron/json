@@ -484,6 +484,18 @@
     "SECONDARY": "ffc423", 
     "TIER": "2", 
     "TRI": "CAL"
+  },
+  "California Baptist": {
+    "COACH": "Coach Name", 
+    "CONFERENCE": "Western Athletic", 
+    "DISPLAY NAME": "California", 
+    "IMS": "CALIFORNIABAPTIST", 
+    "LOCATION": "Riverside CA", 
+    "NICKNAME": "Lancers", 
+    "PRIMARY": "002554", 
+    "SECONDARY": "a17d0a", 
+    "TIER": "2", 
+    "TRI": "CBU"
   }, 
   "Campbell": {
     "COACH": "Kevin McGeehan", 
