@@ -1,0 +1,284 @@
+{
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "MNF"
+    },
+
+    "Template": {
+        "dashboard": ["0. Dashboard", "CompItem", {}],
+        "precomps_bin": ["1. TOOLKIT PRECOMPS", "FolderItem", {
+            "awaysheet": ["Away Logosheet Master Switch", "CompItem", {}],
+            "teamsheet": ["Team Logosheet Master Switch", "CompItem", {}],
+            "showsheet": ["Show Logosheet Master Switch", "CompItem", {}]
+        }],
+        "working_bin": ["2. WORKING FOLDER", "FolderItem", {}],
+        "render_bin": ["3. RENDER COMPS", "FolderItem", {}],
+        "tech_bin": ["X. DO NOT EDIT", "FolderItem", {
+            "assets_bin": ["Asset Bin", "FolderItem", {
+                "guides_bin": ["Guidelayers", "FolderItem", {
+                    "bottomline": ["Guidelayers", "CompItem", {}]
+                }],
+                "team0_bin": ["Team Logo Sheets", "FolderItem", {}],
+                "team1_bin": ["Away Logo Sheets", "FolderItem", {}],
+                "spon0_bin": ["Sponsor Logo Sheets", "FolderItem", {}],
+                "show0_bin": ["Show Logo Sheets", "FolderItem", {}],
+                "asset1_bin": ["Custom Asset 01", "FolderItem", {}],
+                "asset2_bin": ["Custom Asset 02", "FolderItem", {}],
+                "asset3_bin": ["Custom Asset 03", "FolderItem", {}],
+                "asset4_bin": ["Custom Asset 04", "FolderItem", {}],
+                "asset5_bin": ["Custom Asset 05", "FolderItem", {}],
+                "script_bin": ["Script Holders", "FolderItem", {
+                    "awayScript": ["Away Script", "CompItem", {}],
+                    "teamScript": ["Team Script", "CompItem", {}],
+                    "showScript": ["Show Script", "CompItem", {}],
+                    "custScript": ["Custom Text Script", "CompItem", {}]
+                }]
+            }],
+            "wiprenderbin": ["WIP Render Comps", "FolderItem", {}]
+        }]
+    },
+
+    "Expressions": {
+        "(Color) Home Team Primary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([5,5]);",
+        "(Color) Home Team Secondary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([187,5]);",
+        "(Color) Home Team Tertiary": "comp('HOME SWATCH COLORS').layer(1).sampleImage([439,5]);",
+        "(Color) Home Team Background": "comp('HOME SWATCH COLORS').layer(1).sampleImage([608,5]);",
+        "(Color) Away Team Primary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([5,5]);",
+        "(Color) Away Team Secondary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([187,5]);",
+        "(Color) Away Team Tertiary": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([439,5]);",
+        "(Color) Away Team Background": "comp('AWAY SWATCH COLORS').layer(1).sampleImage([608,5]);",        
+        "(SourceText) Home Team Name": "comp('0. Dashboard').layer('TEAM NAME').text.sourceText;",
+        "(SourceText) Home Team Nickname": "comp('0. Dashboard').layer('NICKNAME').text.sourceText;",
+        "(SourceText) Home Team Tricode": "comp('0. Dashboard').layer('TRICODE').text.sourceText;",
+        "(SourceText) Home Team City": "comp('0. Dashboard').layer('LOCATION').text.sourceText;",
+        "(SourceText) Away Team Name": "comp('0. Dashboard').layer('AWAY TEAM NAME').text.sourceText;",
+        "(SourceText) Away Team Nickname": "comp('0. Dashboard').layer('AWAY NICKNAME').text.sourceText;",
+        "(SourceText) Away Team Tricode": "comp('0. Dashboard').layer('AWAY TRICODE').text.sourceText;",
+        "(SourceText) Away Team City": "comp('0. Dashboard').layer('AWAY LOCATION').text.sourceText;",
+        "(SourceText) Custom Text A": "comp('0. Dashboard').layer('CUSTOM TEXT A').text.sourceText;",
+        "(SourceText) Custom Text B": "comp('0. Dashboard').layer('CUSTOM TEXT B').text.sourceText;",
+        "(SourceText) Custom Text C": "comp('0. Dashboard').layer('CUSTOM TEXT C').text.sourceText;",
+        "(SourceText) Custom Text D": "comp('0. Dashboard').layer('CUSTOM TEXT D').text.sourceText;"
+    },
+
+    "Team Logosheet": {
+      "GLASS LOGO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          1516.1,
+          283.9,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "GLASS LOGO MONO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          1706,
+          283.2,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "PRIMARY LOGO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          162.5,
+          285.2,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "PRIMARY LOGO KO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          162.5,
+          471.4,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "PRIMARY LOGO OUTLINE": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          1142.6,
+          285.2,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "SECONDARY LOGO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          348.3,
+          285.2,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "SECONDARY LOGO KO": {
+        "Size": [
+          2048,
+          2048
+        ],
+        "Pos": [
+          1024,
+          1024,
+          0
+        ],
+        "Anx": [
+          348.3,
+          471.6,
+          0
+        ],
+        "Scl": [
+          1334,
+          1334,
+          100
+        ]
+      },
+      "SWATCH COLORS": {
+        "Size": [
+          676,
+          68
+        ],
+        "Pos": [
+          338,
+          34,
+          0
+        ],
+        "Anx": [
+          669.100000000001,
+          494.9,
+          0
+        ],
+        "Scl": [
+          174,
+          174,
+          100
+        ]
+      },
+      "WORDMARK": {
+        "Size": [
+          1538,
+          512
+        ],
+        "Pos": [
+          769,
+          256,
+          0
+        ],
+        "Anx": [
+          675.8,
+          263.799999999999,
+          0
+        ],
+        "Scl": [
+          464,
+          464,
+          100
+        ]
+      },
+      "WORDMARK KO": {
+        "Size": [
+          1538,
+          512
+        ],
+        "Pos": [
+          769,
+          256,
+          0
+        ],
+        "Anx": [
+          675.8,
+          402.699999999999,
+          0
+        ],
+        "Scl": [
+          464,
+          464,
+          100
+        ]
+      }
+    },
+    "Show Logosheet": {
+        "SHOW LOGO PLZ IGNORE": {
+            "Size": [2048, 700],
+            "Pos": [1024, 350, 0],
+            "Anx": [675.9, 263.6, 0],
+            "Scl": [620.3, 620.300000000001, 100]
+        }
+    }
+}

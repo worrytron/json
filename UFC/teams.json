@@ -1,0 +1,17 @@
+{
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "NULL"
+    },
+    "NULL":{
+        "CONFERENCE": "NULL",
+        "DISPLAY NAME": "NULL&",
+        "IMS": "NULL", 
+        "LOCATION": "NULL", 
+        "NICKNAME": "NULL", 
+        "PRIMARY": "ff00ff", 
+        "SECONDARY": "ff00ff", 
+        "TIER": "0", 
+        "TRI": "NUL"
+    }
+}

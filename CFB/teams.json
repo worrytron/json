@@ -1792,16 +1792,16 @@
         "SKY" : "03",
         "SIGN" : "C"
     },
-    "ULL":{
+    "UL":{
         "CONFERENCE" : "Sun Belt",
-        "DISPLAY NAME" : "UL Lafayette",
-        "IMS" : "ims name missing",
+        "DISPLAY NAME" : "Louisiana",
+        "IMS" : "LOUISIANA",
         "LOCATION" : "TBD",
         "NICKNAME" : "Ragin' Cajuns",
         "PRIMARY" : "146,8,19",
         "SECONDARY" : "181,183,186",
         "TIER": "1",
-        "TRI": "ULL",
+        "TRI": "UL",
         "BILLBOARD" : "0",
         "NEON" : "1",
         "MATTE" : "12",

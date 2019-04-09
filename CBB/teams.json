@@ -1820,7 +1820,7 @@
   "Loyola (CHI)": {
     "COACH": "Porter Moser", 
     "CONFERENCE": "Missouri Valley", 
-    "DISPLAY NAME": "Loyola", 
+    "DISPLAY NAME": "Loyola-Chicago", 
     "IMS": "LOYOLACHICAGO", 
     "LOCATION": "Chicago IL", 
     "NICKNAME": "Ramblers", 
@@ -1832,7 +1832,7 @@
   "Loyola (MD)": {
     "COACH": "G.G. Smith", 
     "CONFERENCE": "Patriot League", 
-    "DISPLAY NAME": "Loyola", 
+    "DISPLAY NAME": "Loyola (MD)", 
     "IMS": "LOYOLAMD", 
     "LOCATION": "Baltimore MD", 
     "NICKNAME": "Greyhounds", 
@@ -2000,7 +2000,7 @@
   "Miami (OH)": {
     "COACH": "Jack Owens", 
     "CONFERENCE": "Mid American", 
-    "DISPLAY NAME": "Miami", 
+    "DISPLAY NAME": "Miami (OH)", 
     "IMS": "MIAMIOH", 
     "LOCATION": "Oxford OH", 
     "NICKNAME": "Redhawks", 
@@ -3320,7 +3320,7 @@
   "St Francis (PA)": {
     "COACH": "Rob Krimmel", 
     "CONFERENCE": "Northeast", 
-    "DISPLAY NAME": "St Francis", 
+    "DISPLAY NAME": "St Francis PA", 
     "IMS": "STFRANCISPA", 
     "LOCATION": "Loretto PA", 
     "NICKNAME": "Red Flash", 
@@ -3729,13 +3729,13 @@
     "COACH": "Bob Marlin", 
     "CONFERENCE": "Sun Belt", 
     "DISPLAY NAME": "Louisiana", 
-    "IMS": "ULLAFAYETTE", 
+    "IMS": "LOUISIANA", 
     "LOCATION": "Lafayette LA", 
     "NICKNAME": "Ragin' Cajuns", 
     "PRIMARY": "cc1e25", 
     "SECONDARY": "e69a27", 
     "TIER": "1", 
-    "TRI": "UL-L"
+    "TRI": "UL"
   }, 
   "UL Monroe": {
     "COACH": "Keith Richard", 
@@ -4288,5 +4288,17 @@
     "SECONDARY": "f0f0f0", 
     "TIER": "1", 
     "TRI": "YSU"
+  },
+  "Champ Week": {
+    "COACH": "ESPN",
+    "CONFERENCE": "ESPN",
+    "DISPLAY NAME": "Champ Week",
+    "IMS": "CHAMPWEEK",
+    "LOCATION": "None",
+    "NICKNAME": "None",
+    "PRIMARY": "ff0000",
+    "SECONDARY": "ffffff",
+    "TIER": "1",
+    "TRI": "CHAMPWEEK"
   }
 }

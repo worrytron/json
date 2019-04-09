@@ -1,7 +1,7 @@
 {
     "ESPN_META": {
         "version": 1.1,
-        "production": "CBB"
+        "production": "ACCN"
     },
 
     "Template": {
@@ -43,18 +43,10 @@
         "(Color) Home Team Secondary": "comp('HOME COLOR SWATCH').layer(1).sampleImage([45,1]);",
         "(Color) Home Team Tertiary": "comp('HOME COLOR SWATCH').layer(1).sampleImage([79,1]);",
         "(Color) Home Team Background": "comp('HOME COLOR SWATCH').layer(1).sampleImage([110,1]);",
-        "(Color) Home Team Primary": "comp('HOME COLOR SWATCH').layer(1).sampleImage([13,1]);",
-        "(Color) Home Team Secondary": "comp('HOME COLOR SWATCH').layer(1).sampleImage([45,1]);",
-        "(Color) Home Team Tertiary": "comp('HOME COLOR SWATCH').layer(1).sampleImage([79,1]);",
-        "(Color) Home Team Background": "comp('HOME COLOR SWATCH').layer(1).sampleImage([110,1]);",
         "(SourceText) Home Team Name": "comp('0. Dashboard').layer('TEAM NAME').text.sourceText;",
         "(SourceText) Home Team Nickname": "comp('0. Dashboard').layer('NICKNAME').text.sourceText;",
         "(SourceText) Home Team Tricode": "comp('0. Dashboard').layer('TRICODE').text.sourceText;",
         "(SourceText) Home Team City": "comp('0. Dashboard').layer('LOCATION').text.sourceText;",
-        "(Color) Away Team Primary": "comp('AWAY COLOR SWATCH').layer(1).sampleImage([13,1]);",
-        "(Color) Away Team Secondary": "comp('AWAY COLOR SWATCH').layer(1).sampleImage([45,1]);",
-        "(Color) Away Team Tertiary": "comp('AWAY COLOR SWATCH').layer(1).sampleImage([79,1]);",
-        "(Color) Away Team Background": "comp('AWAY COLOR SWATCH').layer(1).sampleImage([110,1]);",
         "(Color) Away Team Primary": "comp('AWAY COLOR SWATCH').layer(1).sampleImage([13,1]);",
         "(Color) Away Team Secondary": "comp('AWAY COLOR SWATCH').layer(1).sampleImage([45,1]);",
         "(Color) Away Team Tertiary": "comp('AWAY COLOR SWATCH').layer(1).sampleImage([79,1]);",
@@ -100,13 +92,13 @@
             "Anx": [678.3, 491.5, 0],
             "Scl": [30, 30.0000000000001, 100]
         },
-        "WORDMARK": {
+        "WORDMARK A": {
             "Size": [2048, 700],
             "Pos": [1024, 350, 0],
             "Anx": [675.9, 263.6, 0],
             "Scl": [620.3, 620.300000000001, 100]
         },
-        "WORDMARK KO": {
+        "WORDMARK A KO": {
             "Size": [2048, 700],
             "Pos": [1024, 350, 0],
             "Anx": [675.9, 402.7, 0],
@@ -114,23 +106,5 @@
         }
     },
     "Show Logosheet": {
-        "SHOW WORDMARK LOGO": {
-            "Size": [2048, 700],
-            "Pos": [1024, 350, 0],
-            "Anx": [675.9, 263.6, 0],
-            "Scl": [620.3, 620.300000000001, 100]
-        },
-        "SHOW NETWORK LOGO": {
-            "Size": [2048, 2048],
-            "Pos": [1024, 1024, 0],
-            "Anx": [162.7, 285.599999999999, 0],
-            "Scl": [1330.5, 1330.5, 100]
-        },
-        "SHOW ICON LOGO": {
-            "Size": [2048, 2048],
-            "Pos": [1024, 1024, 0],
-            "Anx": [348.3, 285.5, 0],
-            "Scl": [1332.9, 1332.9, 100]
-        }
     }
 }

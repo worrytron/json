@@ -1,0 +1,200 @@
+{
+    "ESPN_META": {
+        "version": 1.1,
+        "production": "NULL"
+    },
+    "NULL":{
+        "CONFERENCE": "NULL",
+        "DISPLAY NAME": "NULL&",
+        "IMS": "NULL", 
+        "LOCATION": "NULL", 
+        "NICKNAME": "NULL", 
+        "PRIMARY": "ff00ff", 
+        "SECONDARY": "ff00ff", 
+        "TIER": "0", 
+        "TRI": "NUL"
+    },
+    "Boston College": {
+      "COACH": "Jim Christian", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Boston College", 
+      "IMS": "BOSTONCOLLEGE", 
+      "LOCATION": "Chestnut Hill MA", 
+      "NICKNAME": "Eagles", 
+      "PRIMARY": "98012e", 
+      "SECONDARY": "cbb778", 
+      "TIER": "2", 
+      "TRI": "BC"
+    },
+    "Clemson": {
+      "COACH": "Brad Brownell", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Clemson", 
+      "IMS": "CLEMSON", 
+      "LOCATION": "Clemson SC", 
+      "NICKNAME": "Tigers", 
+      "PRIMARY": "f56600", 
+      "SECONDARY": "522d80", 
+      "TIER": "2", 
+      "TRI": "CLEM"
+    }, 
+    "Duke": {
+      "COACH": "Mike Krzyzewski", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Duke", 
+      "IMS": "DUKE", 
+      "LOCATION": "Durham NC", 
+      "NICKNAME": "Blue Devils", 
+      "PRIMARY": "00529b", 
+      "SECONDARY": "f0f0f0", 
+      "TIER": "2", 
+      "TRI": "DUKE"
+    }, 
+    "Florida St": {
+      "COACH": "Leonard Hamilton", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Florida St", 
+      "IMS": "FLORIDAST", 
+      "LOCATION": "Tallahassee FL", 
+      "NICKNAME": "Seminoles", 
+      "PRIMARY": "862633", 
+      "SECONDARY": "c5b783", 
+      "TIER": "2", 
+      "TRI": "FSU"
+    }, 
+    "Georgia Tech": {
+      "COACH": "Josh Pastner", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Georgia Tech", 
+      "IMS": "GEORGIATECH", 
+      "LOCATION": "Atlanta GA", 
+      "NICKNAME": "Yellow Jackets", 
+      "PRIMARY": "00254c", 
+      "SECONDARY": "a3805a", 
+      "TIER": "2", 
+      "TRI": "GT"
+    }, 
+    "Louisville": {
+      "COACH": "Rick Pitino", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Louisville", 
+      "IMS": "LOUISVILLE", 
+      "LOCATION": "Louisville KY", 
+      "NICKNAME": "Cardinals", 
+      "PRIMARY": "c2002f", 
+      "SECONDARY": "0", 
+      "TIER": "2", 
+      "TRI": "LOU"
+    }, 
+    "Miami": {
+      "COACH": "Jim Larranaga", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Miami", 
+      "IMS": "MIAMIFL", 
+      "LOCATION": "Coral Gables FL", 
+      "NICKNAME": "Hurricanes", 
+      "PRIMARY": "f47321", 
+      "SECONDARY": "5030", 
+      "TIER": "2", 
+      "TRI": "MIA"
+    }, 
+    "NC State": {
+      "COACH": "Kevin Keatts", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "NC State", 
+      "IMS": "NCSTATE", 
+      "LOCATION": "Raleigh NC", 
+      "NICKNAME": "Wolfpack", 
+      "PRIMARY": "cf0010", 
+      "SECONDARY": "0", 
+      "TIER": "2", 
+      "TRI": "NCST"
+    }, 
+    "Notre Dame": {
+      "COACH": "Mike Brey", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Notre Dame", 
+      "IMS": "NOTREDAME", 
+      "LOCATION": "Notre Dame IN", 
+      "NICKNAME": "Fighting Irish", 
+      "PRIMARY": "0c2340", 
+      "SECONDARY": "c99700", 
+      "TIER": "2", 
+      "TRI": "ND"
+    },
+    "Pittsburgh": {
+      "COACH": "Kevin Stallings", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Pittsburgh", 
+      "IMS": "PITTSBURGH", 
+      "LOCATION": "Pittsburgh PA", 
+      "NICKNAME": "Panthers", 
+      "PRIMARY": "0d213d", 
+      "SECONDARY": "b3a369", 
+      "TIER": "2", 
+      "TRI": "PITT"
+    }, 
+    "Syracuse": {
+      "COACH": "Jim Boeheim", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Syracuse", 
+      "IMS": "SYRACUSE", 
+      "LOCATION": "Syracuse NY", 
+      "NICKNAME": "Orange", 
+      "PRIMARY": "f47d31", 
+      "SECONDARY": "002d62", 
+      "TIER": "2", 
+      "TRI": "SYR"
+    }, 
+    "North Carolina": {
+      "COACH": "Roy Williams", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "North Carolina", 
+      "IMS": "NORTHCAROLINA", 
+      "LOCATION": "Chapel Hill NC", 
+      "NICKNAME": "Tar Heels", 
+      "PRIMARY": "7bafd4", 
+      "SECONDARY": "13294b", 
+      "TIER": "2", 
+      "TRI": "UNC"
+    }, 
+    "Virginia": {
+      "COACH": "Tony Bennett", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Virginia", 
+      "IMS": "VIRGINIA", 
+      "LOCATION": "Charlottesville VA", 
+      "NICKNAME": "Cavaliers", 
+      "PRIMARY": "002d62", 
+      "SECONDARY": "f37736", 
+      "TIER": "2", 
+      "TRI": "UVA"
+    }, 
+    "Virginia Tech": {
+      "COACH": "Tony Bennett", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Virginia Tech", 
+      "IMS": "VIRGINIATECH", 
+      "LOCATION": "Blacksburg VA", 
+      "NICKNAME": "Hokies", 
+      "PRIMARY": "002d62", 
+      "SECONDARY": "f37736", 
+      "TIER": "2", 
+      "TRI": "VT"
+    }, 
+    "Wake Forest": {
+      "COACH": "Danny Manning", 
+      "CONFERENCE": "ACC", 
+      "DISPLAY NAME": "Wake Forest", 
+      "IMS": "WAKEFOREST", 
+      "LOCATION": "Winston-Salem NC", 
+      "NICKNAME": "Demon Deacons", 
+      "PRIMARY": "101010", 
+      "SECONDARY": "9e7e38", 
+      "TIER": "2", 
+      "TRI": "WAKE"
+    }
+
+
+
+}
